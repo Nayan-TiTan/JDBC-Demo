@@ -29,7 +29,7 @@ public class MyDemoJDBC {
         }
 
         //just added this for a change to commit changes
-        //added this in new_demo
+        //new change in master so that it can be merged in new_demo
 
     }
 }
