@@ -32,5 +32,7 @@ public class MyDemoJDBC {
         //new change in master so that it can be merged in new_demo
         //another change made in new_demo after merging master to this
 
+        //now again 1 line added to reset change
+
     }
 }
