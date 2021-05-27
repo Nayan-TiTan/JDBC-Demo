@@ -30,5 +30,7 @@ public class MyDemoJDBC {
 
         //just added this for a change to commit changes
 
+        //added this in new_demo
+
     }
 }
