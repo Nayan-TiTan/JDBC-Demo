@@ -30,6 +30,7 @@ public class MyDemoJDBC {
 
         //just added this for a change to commit changes
         //new change in master so that it can be merged in new_demo
+        //another change made in new_demo after merging master to this
 
     }
 }
